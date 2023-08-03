@@ -1,0 +1,36 @@
+[
+    {
+      "projectName": "Weather App",
+      "description": "A weather application that provides real-time weather updates based on the user's location.",
+      "imgUrl": "https://cdn.dribbble.com/userupload/2837271/file/original-7ec88bb33aa6a2e3a8b2f518112e587b.png",
+      "technologiesUsed": [
+        {"name": "JavaScript", "color": "#F7DF1E"},
+        {"name": "React", "color": "#61DAFB"},
+        {"name": "APIs", "color": "#02968A"},
+        {"name": "CSS", "color": "#264DE4"}
+      ]
+    },
+    {
+      "projectName": "Online Marketplace",
+      "description": "A platform that connects buyers and sellers, allowing them to transact goods and services online.",
+      "imgUrl": "https://cdn.dribbble.com/userupload/4030371/file/original-af9eeaa7e7e611f900c2e7f7f5af00ce.png",
+      "technologiesUsed": [
+        {"name": "Python", "color": "#3776AB"},
+        {"name": "Django", "color": "#092E20"},
+        {"name": "PostgreSQL", "color": "#336791"},
+        {"name": "HTML5", "color": "#E34F26"},
+        {"name": "CSS", "color": "#264DE4"}
+      ]
+    },
+    {
+      "projectName": "Fitness Tracker",
+      "description": "A mobile application that helps users track their fitness goals, workouts, and nutrition.",
+      "imgUrl": "https://cdn.dribbble.com/userupload/4384272/file/original-b51c32bfcb4e7244d725bc362439980e.png",
+      "technologiesUsed": [
+        {"name": "Java", "color": "#B07219"},
+        {"name": "Android", "color": "#3DDC84"},
+        {"name": "SQLite", "color": "#003B57"},
+        {"name": "Google Fit API", "color": "#4285F4"}
+      ]
+    }
+  ]

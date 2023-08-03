@@ -8,7 +8,9 @@
         {"name": "React", "color": "#61DAFB"},
         {"name": "APIs", "color": "#02968A"},
         {"name": "CSS", "color": "#264DE4"}
-      ]
+      ],
+      "liveAppUrl":"",
+      "repoUrl":""
     },
     {
       "projectName": "Online Marketplace",
@@ -20,7 +22,10 @@
         {"name": "PostgreSQL", "color": "#336791"},
         {"name": "HTML5", "color": "#E34F26"},
         {"name": "CSS", "color": "#264DE4"}
-      ]
+        
+      ],
+      "liveAppUrl":"",
+      "repoUrl":""
     },
     {
       "projectName": "Fitness Tracker",
@@ -31,6 +36,8 @@
         {"name": "Android", "color": "#3DDC84"},
         {"name": "SQLite", "color": "#003B57"},
         {"name": "Google Fit API", "color": "#4285F4"}
-      ]
+      ],
+      "liveAppUrl":"",
+      "repoUrl":""
     }
   ]

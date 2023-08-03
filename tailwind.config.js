@@ -12,9 +12,10 @@ module.exports = {
       },      
       width: {
         '300': '75rem',
+        '280':'60rem',
       },
       height:{
-        '300': '75rem'
+        '300': '67.5rem',
       },
       padding:{
         pyButton: '10px',

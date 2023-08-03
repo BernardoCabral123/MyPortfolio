@@ -10,6 +10,8 @@ export type Project = {
     description: string;
     imgUrl: string;
     technologiesUsed: Technology[];
+    liveAppUrl:string;
+    repoUrl:string;
   };
   
 export type ProjectsResponse = Project[];

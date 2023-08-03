@@ -139,3 +139,8 @@ body{
     transform-origin: 5vw 25vh;
     box-shadow: -30vmin 0 4.380070306227517vmin currentColor;
 }
+
+.fit-svg svg{
+    width: 100%;
+    height: 100%;
+}

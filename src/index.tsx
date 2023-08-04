@@ -5,6 +5,7 @@ import WelcomeSection from './features/welcome/WelcomeSection';
 import NavBar from './features/NavBar/NavBar';
 import BarSection from './features/barSection/BarSection';
 import ProjectShowcaseSection from './features/projectShowcase/ProjectShowcaseSection';
+import ContactMeSection from './features/ContactMeSection';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -16,6 +17,7 @@ root.render(
     <WelcomeSection/>
     <BarSection/>
     <ProjectShowcaseSection/>
+    <ContactMeSection/>
     </div>
 
   </React.StrictMode>
